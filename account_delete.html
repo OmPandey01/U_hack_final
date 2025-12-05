@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from united.ac.in/uhack/account_delete.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 29 Oct 2025 18:17:28 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Deletion Request</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+        form {
+            margin-top: 20px;
+        }
+        label {
+            display: block;
+            margin: 10px 0 5px;
+        }
+        input[type="text"], input[type="email"], textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        .note {
+            margin-top: 20px;
+            color: #d9534f;
+        }
+        .mandatory {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Request Account Deletion</h1>
+    <p>If you wish to delete your account, please fill out the form below. 
+        Your account will be deleted within 15-20 business days.
+         We will send you a confirmation email once the process is completed.</p>
+    
+    <form action="mailto:unitedhackthon@gmail.com?subject=Account Deletion Request" method="POST" enctype="text/plain">
+        <label for="name">Full Name <span class="mandatory">*</span></label>
+        <input type="text" id="name" name="name" required>
+        
+        <label for="accountId">email ID <span class="mandatory">*</span></label>
+        <input type="text" id="accountId" name="emailID" required >
+        
+        <label for="message">Additional Comments</label>
+        <textarea id="message" name="message" rows="4"></textarea>
+        
+        <button type="submit">Submit Request</button>
+    </form>
+
+    <p class="note">Note: Please ensure that all mandatory fields are filled out accurately to avoid delays in processing your request.</p>
+</div>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9964a6004b13fdfe',t:'MTc2MTc2MTYyMw=='};var a=document.createElement('script');a.src='https://united.ac.in/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+<!-- Mirrored from united.ac.in/uhack/account_delete.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 29 Oct 2025 18:17:28 GMT -->
+</html>

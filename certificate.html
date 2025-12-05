@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coming Soon</title>
+  <style>
+    /* Reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      height: 100vh;
+      background: linear-gradient(135deg, #2c3e50, #3498db);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      font-family: "Poppins", sans-serif;
+      overflow: hidden;
+    }
+
+    h1 {
+      font-size: 4rem;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 1.2rem;
+      opacity: 0.8;
+    }
+
+    .loader {
+      margin-top: 30px;
+      width: 60px;
+      height: 60px;
+      border: 6px solid rgba(255, 255, 255, 0.3);
+      border-top-color: #fff;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Coming Soon</h1>
+  <p>We’re working hard to launch something amazing!</p>
+  <div class="loader"></div>
+</body>
+</html>
