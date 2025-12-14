@@ -42,12 +42,6 @@ const timeline = [
       "Phase 1: Idea & PPT Submission Round – Screening of concepts and innovation potential. All submitted presentations will be evaluated for creativity and feasibility.",
   },
   {
-    date: "16th – 23rd January 2026",
-    title: "Online Presentation & Evaluation Round",
-    description:
-      "Teams will present their ideas online to a panel of judges. This round focuses on detailed evaluation of your proposed solution, strategy, and implementation approach.",
-  },
-  {
     date: "27th January 2026",
     title: "Finalists Announcement for Grand Finale",
     description:
@@ -122,7 +116,7 @@ function initJourneyPath() {
           timelineSection.offsetHeight + startTrigger - endTrigger;
         progress = Math.max(
           0,
-          Math.min(scrolledSinceStart / totalScrollable, 1)
+          Math.min(scrolledSinceStart / totalScrollable, 1),
         );
       } else if (rect.bottom <= endTrigger) {
         progress = 1;
@@ -142,7 +136,7 @@ function initJourneyPath() {
         const viewBoxHeight = 2500;
         const scale = Math.min(
           svgRect.width / viewBoxWidth,
-          svgRect.height / viewBoxHeight
+          svgRect.height / viewBoxHeight,
         );
         const contentWidth = viewBoxWidth * scale;
         const contentHeight = viewBoxHeight * scale;
@@ -168,7 +162,7 @@ function initJourneyPath() {
         }
       });
     },
-    { threshold: 0.2, rootMargin: "0px 0px -20% 0px" }
+    { threshold: 0.2, rootMargin: "0px 0px -20% 0px" },
   );
 
   timelineSteps.forEach((step) => stepObserver.observe(step));
