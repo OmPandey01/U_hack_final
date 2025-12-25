@@ -3,50 +3,56 @@
 		"name": "Shiv Prakash Tiwari",
 		"ln": "https://www.linkedin.com/in/shivprakash-tiwari-1b4616299/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"email": "shivspt9651@gmail.com",
-		"img": "img/event-heads/ShivprkashTiwari.png",
-		"position": "President"
-	},
-
-	{
-		"name": "Sangini Tripathi",
-		"ln": "https://www.linkedin.com/in/sangini-tripathi",
-		"email": "sanginitripathi8@gmail.com",
-		"img": "img/event-heads/Sangini Tripathi.jpg",
-		"position": "Vice-President"
-	},
-	{
-		"name": "Aayush Dubey",
-		"ln": "https://www.linkedin.com/in/aayush-dubey-25870a336/",
-		"email": "aayushdubey9614@outlook.com",
-		"img": "img/event-heads/Aayush_Dubey.png",
-		"position": "Technical Head"
-	},
-	{
-		"name": "Utkarsh Kumar Singh",
-		"ln": "https://www.linkedin.com/in/utkarsh-kumar-singh-03290b260/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-		"email": "utkarshkumarsingh558@gmail.com",
-		"img": "img/event-heads/members/Utkarsh Singh.jpg",
-		"position": "Treasurer"
-	},
-	{
-		"name": "Shruti Tiwari",
-		"ln": "https://www.linkedin.com/in/shruti-tiwari-48a1312a1/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-		"email": "tiwarishruti0707@gmail.com",
-		"img": "img/event-heads/members/Shruti Tiwari.jpg",
-		"position": "Operations Head"
+		"img": "img/event-heads/ShivprkashTiwari.webp",
+		"position": "Head Co-Ordinator"
 	},
 	{
 		"name": "Om Pandey",
 		"ln": "https://www.linkedin.com/in/ompandey01/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"email": "pandey.om.work@gmail.com",
 		"img": "img/event-heads/members/Om_Technical_infra.jpg",
+		"position": "Head Co-Ordinator"
+	},
+	{
+		"name": "Shruti Tiwari",
+		"ln": "https://www.linkedin.com/in/shruti-tiwari-48a1312a1/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+		"email": "tiwarishruti0707@gmail.com",
+		"img": "img/event-heads/members/Shruti Tiwari.jpg",
+		"position": "Head Co-Ordinator"
+	},
+	{
+		"name": "Sangini Tripathi",
+		"ln": "https://www.linkedin.com/in/sangini-tripathi",
+		"email": "sanginitripathi8@gmail.com",
+		"img": "img/event-heads/members/Sangini Tripathi.webp",
+		"position": "Media & Creativity"
+	},
+	{
+		"name": "Utkarsh Kumar Singh",
+		"ln": "https://www.linkedin.com/in/utkarsh-kumar-singh-03290b260/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+		"email": "utkarshkumarsingh558@gmail.com",
+		"img": "img/event-heads/members/Utkarsh Singh.jpg",
+		"position": "Marketing & Outreach"
+	},
+	{
+		"name": "Aayush Dubey",
+		"ln": "https://www.linkedin.com/in/aayush-dubey-25870a336/",
+		"email": "aayushdubey9614@outlook.com",
+		"img": "img/event-heads/members/Aayush_Dubey.webp",
 		"position": "Technical Coordinator"
 	},
 	{
 		"name": "Om Pandey",
 		"ln": "https://www.linkedin.com/in/om-pandey-new/",
 		"email": "ompadhaku2004@gmail.com",
-		"img": "img/event-heads/members/Om Pandey.jpg",
+		"img": "img/event-heads/members/Om Pandey.webp",
+		"position": "Technical Coordinator"
+	},
+	{
+		"name": "Sameer Gupta",
+		"ln": "https://www.linkedin.com/in/sameer-gupta-7b5aaa265/",
+		"email": "gdrigon478874@@gmail.com",
+		"img": "img/event-heads/members/sameer_gupta.webp",
 		"position": "Technical Coordinator"
 	},
 	{
@@ -54,85 +60,64 @@
 		"ln": "https://www.linkedin.com/in/sandeep-kushwaha-042874294/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"email": "sandeepkushwaha0111@gmail.com",
 		"img": "img/event-heads/members/Sandeep Kushwaha.webp",
-		"position": "Technical Coordinator"
+		"position": "Media & Creativity"
 	},
-	
-	
 	{
 		"name": "Vidhi Gautam",
 		"ln": "https://www.linkedin.com/in/vidhi-gautam-574a38343/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"email": "gautamvidzz16@gmail.com",
 		"img": "img/event-heads/members/Vidhi.jpg",
-		"position":"Media & Creativity"
-	},
-	{
-		"name": "Satyam Tiwari",
-		"ln": "https://www.linkedin.com/in/satyam--ai/",
-		"email": "satyamtiwariworks@gmail.com",
-		"img": "img/event-heads/members/satyam.jpg",
 		"position": "Media & Creativity"
 	},
-	
-	
-	
 	{
 		"name": "Akshat Mishra",
 		"ln": "https://www.linkedin.com/in/akshatmishra26/",
 		"email": "akshatmishra880@gmail.com",
 		"img": "img/event-heads/members/A M.jpg",
-		"position":"Problem Statement & Mentorship"
+		"position": "Problem Statement & Mentorship"
 	},
-	{
-		"name": "Arshiya Jaiswal",
-		"ln": "https://www.linkedin.com/in/arshiya-jaiswal-1a8493368/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-		"email": "arshiyajaiwal24@gmail.com",
-		"img": "img/event-heads/members/Arshiya Jaiswal.jpg",
-		"position":"Problem Statement & Mentorship"
-	},
-	
 	{
 		"name": "Ashutosh Tiwari",
 		"ln": "https://www.linkedin.com/in/ashutosh-tiwari-b98b1431a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"email": "ashutoshtiwari0603@gmail.com",
 		"img": "img/event-heads/members/Ashutosh Tiwari.jpg",
-		"position":"Anchoring"
+		"position": "Anchoring"
 	},
 	{
 		"name": "Anushka Srivastava",
 		"ln": "https://www.linkedin.com/in/anushka-srivastava05",
 		"email": "srivastavaanushka380@gmail.com",
 		"img": "img/event-heads/members/Anushka Srivastava.jpg",
-		"position":"Anchoring"
+		"position": "Anchoring"
 	},
 	{
 		"name": "Ishita Singh",
 		"ln": "https://www.linkedin.com/in/ishita-singh-15107a329/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"email": "ishitarajput27052005@gmail.com",
 		"img": "img/event-heads/members/Ishita Singh.jpg",
-		"position":"Logistics & Hospitality"
+		"position": "Logistics & Hospitality"
 	},
 	{
 		"name": "Amisha Vishwakarma",
 		"ln": "https://www.linkedin.com/in/amisha-vishwakarma-663845287/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"email": "amisha20062005@gmail.com",
 		"img": "img/event-heads/members/Amisha Vishwakarma.jpg",
-		"position":"Logistics & Hospitality"
+		"position": "Logistics & Hospitality"
 	},
 	{
 		"name": "Anuj Shukla",
 		"ln": "https://www.linkedin.com/in/anujshukla22/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"email": "anujshukla5733@gmail.com",
 		"img": "img/event-heads/members/Anuj Shukla.webp",
-		"position":"Marketing & Outreach"
+		"position": "Marketing & Outreach"
 	},
 	{
 		"name": "Utkarsh Kumar",
 		"ln": "https://www.linkedin.com/in/utkarsh-yadav-799854307/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"email": "utkarshkumarkr@gmail.com",
 		"img": "img/event-heads/members/Utkarsh Kumar.jpg",
-		"position":"Marketing & Outreach"
+		"position": "Marketing & Outreach"
 	},
-	
 	{
 		"name": "Akash Srivastav",
 		"ln": "https://www.linkedin.com/in/akash-srivastav-993a502a2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -148,47 +133,24 @@
 		"position": "Members"
 	},
 	{
-		"name": "Abhishek Mishra",
-		"ln": "https://www.linkedin.com/in/abhishek-mishra-636739335/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-		"email": "mishraabhi2924@gmail.com",
-		"img": "img/event-heads/members/Abhishek Mishra.jpg",
-		"position":"Members"
-	},
-	{
 		"name": "Akash Shukla",
 		"ln": "https://www.linkedin.com/in/aakash-shukla-a2ba02345",
 		"email": "shuklaakash8381@gmail.com",
-		"img": "img/Akash Shukla - Aakash Shukla.png",
-		"position":"Members"
-	},
-	{
-		"name": "Nitin Tiwari",
-		"ln": "https://www.linkedin.com/in/nitin-tiwari-09254b352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
-		"email": "nitintiwari0058@gmail.com",
-		"img": "img/event-heads/members/Nitin.jpg",
-		"position":"Members"
+		"img": "img/event-heads/members/Akash_Shukla.webp",
+		"position": "Members"
 	},
 	{
 		"name": "Rishabh Agrahari",
 		"ln": "https://www.linkedin.com/in/rishabh-agrahari-5701a7240/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"email": "agraharishabh04@gmail.com",
 		"img": "img/event-heads/members/Rishabh Agrahari.jpg",
-		"position":"Members"
-	},
-	{
-		"name": "Rajeshwar Pratap Singh",
-		"ln": "https://www.linkedin.com/in/rajeshwar-pratap-singh-5b8374329/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-		"email": "thakursaurabh2810@gmail.com",
-		"img": "img/event-heads/members/Saurabh Singh.jpg",
-		"position":"Members"
+		"position": "Members"
 	},
 	{
 		"name": "Samar Kumar",
 		"ln": "https://www.linkedin.com/in/samar-kumar-4417a2343/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 		"email": "samarchaudhary9696@gmail.com",
 		"img": "img/event-heads/members/Samar Kumar.jpg",
-		"position":"Members"
+		"position": "Members"
 	}
 ]
-
-
